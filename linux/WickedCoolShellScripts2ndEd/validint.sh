@@ -27,7 +27,7 @@ nodigits="$(echo $testvalue | sed 's/[[:digit:]]//g')"
 
 # Check for nondigit characters.
 if [ ! -z $nodigits ] ; then
-    echo "Invalid number format! Onky digits, no commas, spaces, etc." >&2
+    echo "Invalid number format! Only digits, no commas, spaces, etc." >&2
 fi
 
 if [ ! -z $min ] ; then
