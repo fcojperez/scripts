@@ -5,4 +5,4 @@
 clear
 echo "Listing config files which start with character a or x"
 
-ls -lR /etc | awk '/\<(a|x).*\.conf$/ { print $9 }'
+ls -lR /etc | awk '/\<[a|x].*\.conf$/ { print $9 }'
