@@ -1,0 +1,60 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+stepping	: 2
+microcode	: 0xb00001f
+cpu MHz		: 1699.998
+cache size	: 35840 KB
+physical id	: 0
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+stepping	: 2
+microcode	: 0xb00001f
+cpu MHz		: 1699.998
+cache size	: 35840 KB
+physical id	: 0
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+stepping	: 2
+microcode	: 0xb00001f
+cpu MHz		: 1699.998
+cache size	: 35840 KB
+physical id	: 0
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+stepping	: 2
+microcode	: 0xb00001f
+cpu MHz		: 1699.998
+cache size	: 35840 KB
+physical id	: 0
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+stepping	: 2
+microcode	: 0xb00001f
+cpu MHz		: 1699.998
+cache size	: 35840 KB
+physical id	: 0
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+stepping	: 2
+microcode	: 0xb00001f
+cpu MHz		: 1699.998
+cache size	: 35840 KB
+physical id	: 0
